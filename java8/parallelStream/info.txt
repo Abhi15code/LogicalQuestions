@@ -1,0 +1,11 @@
+ java parallel streams is a feature of java 8 , it means for utilizing multiple cores of the processor
+
+ Normally any java code has one stream of processing, where it is executed sequentially. Whereas by using parallel streams,
+  we can divide the code into multiple 
+  streams that area executed in parallel on separate
+ cores and the final result is the combination of the individual outcomes
+  
+  The order of execution, however, is not under our control.
+
+  // it give the better performance
+  // it execute in random order 
